@@ -1,5 +1,5 @@
 # DopeSlopes-FaveWaves
-A funnel analysis on the fictional E commerce site DopeSlopes-FaveWaves that sell winter and summer sports equipment. 
+A funnel analysis on the fictional e-commerce site DopeSlopes-FaveWaves that sell winter and summer sports equipment. 
 
 This is my first funnel analysis. Feedback is greatly appriciated. 
 
